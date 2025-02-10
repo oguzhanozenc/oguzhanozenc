@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey, I'm Oguzhan
 
-<!--
-**oguzhanozenc/oguzhanozenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Front-End Developer** based in Istanbul, Turkey. I'm passionate about transforming ideas into reality and enjoy exploring the **software development cycle** from concept to deployment. My focus is primarily on **front-end development**, where I build engaging, user-centered experiences. I’m drawn to projects that **tell stories** and create meaningful interactions. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+JavaScript, TypeScript, HTML, CSS  
+React, Vue 3  
+Vite, Netlify CMS, Firebase
+
+---
+
+## 🤝 Let’s Connect
+
+- **Portfolio**: [oguzhanozenc.me](https://oguzhanozenc.me)
+- **LinkedIn**: [linkedin.com/in/oguzhanozenc](https://www.linkedin.com/in/oguzhanozenc)
+- **Email**: [oguzhanozenc10@gmail.com](mailto:oguzhanozenc10@gmail.com)
+
+---
+
+*Let’s build products that tell stories.*
